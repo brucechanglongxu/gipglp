@@ -1,4 +1,4 @@
-# GIPR-Ab/GLP-1 Conjugates for Obesity: A CNS-Dependent Strategy
+# GIPR-Ab/GLP-1 Conjugates for Obesity: A CNS-Dependent Strategys
 
 **Paper:** Liu et al., _Nature Metabolism_, 2025
 DOI: 10.1038/s42255-025-01295-w
